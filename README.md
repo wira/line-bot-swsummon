@@ -1,4 +1,4 @@
-This project is created for personal usage back then in our guild's LINE group since we all were summon-addicted with no budget to do actual summons.
+This project is created for personal usage back then (2017) in our guild's LINE group since we all were summon-addicted with no budget to do actual summons.
 Most likely everything is broken if you are trying to run it now anyway, this repo is only for my archive purpose.
 
 ### Summon rates and planned sql query
